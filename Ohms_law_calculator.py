@@ -1,6 +1,6 @@
 # Ohm's Law and Power Calculator
 # ND1 Mechatronics Engineering - YabaTech
-# Author: [Bello Muhammed]
+# Author: Bello Muhammed
 
 def calculate_voltage(current, resistance):
     """Calculate voltage using V = I * R"""
